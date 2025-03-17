@@ -1,0 +1,7 @@
+version: "3.10"
+services:
+  latex-generator:
+    build: .
+    volumes:
+      - .:/app  
+    container_name: latex-generator
