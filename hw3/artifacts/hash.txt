@@ -1,0 +1,2 @@
+Hash of AB: 10
+Hash of CD: 10
